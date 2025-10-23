@@ -12,6 +12,8 @@
 
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" />
 
+<br>
+
 - 💫 I’m currently learning <b>Backend</b>
 
 - ✨ Ask me about <b>Frontend Development</b>
