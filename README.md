@@ -36,7 +36,8 @@
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -70,6 +71,8 @@
     <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&shadow=1" alt="Apache Spark" />
 </p>
 
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muntazimsiddiqui8-cyber&show_icons=true&locale=en&layout=compact" alt="muntazimsiddiqui8-cyber" /></p>
 
