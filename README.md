@@ -38,8 +38,8 @@
 <br>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&shadow=1" alt="Python" />
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&shadow=1" alt="R" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&shadow=1" alt="SQL" />
@@ -47,8 +47,8 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&shadow=1" alt="Git" />
 </p>
 
-<h3 align="left">Data Science & Machine Learning:</h3>
-<p align="left">
+<h3 align="center">Data Science & Machine Learning:</h3>
+<p align="center">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&shadow=1" alt="NumPy" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&shadow=1" alt="Pandas" />
     <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&shadow=1" alt="Scikit-Learn" />
@@ -58,8 +58,8 @@
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&shadow=1" alt="OpenCV" />
 </p>
 
-<h3 align="left">Tools & Databases:</h3>
-<p align="left">
+<h3 align="center">Tools & Databases:</h3>
+<p align="center">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&shadow=1" alt="Jupyter" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&shadow=1" alt="Docker" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&shadow=1" alt="PostgreSQL" />
